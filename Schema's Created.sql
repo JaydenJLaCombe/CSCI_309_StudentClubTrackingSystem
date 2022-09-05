@@ -1,0 +1,8 @@
+CREATE SCHEMA Clubs
+GO
+CREATE SCHEMA Loactions
+GO
+CREATE SCHEMA People
+GO 
+CREATE SCHEMA Responsibility
+GO
